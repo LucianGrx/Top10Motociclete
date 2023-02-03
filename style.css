@@ -62,7 +62,8 @@ nav, .specs-header, .specs li, .stats {
 header {
     height: 100vh;
     min-height: 30em;
-    background-image: url("36986.png");
+    background-image: url("36986.png")
+    no-repeat center;
     background-size: cover;
     display: flex;
     flex-direction: column; 
@@ -118,7 +119,8 @@ nav a:hover {
 
 .specs {
     background-image:
-    url("honda_transalp_header.jpg");
+    url("honda_transalp_header.jpg")
+    no-repeat center;
     background-size: cover;
     min-height: 40em;
     position: relative;
@@ -179,12 +181,14 @@ nav a:hover {
 
 .panel:nth-child(2) {
     background-image: 
-    url("Transalp-gallery-1024x628.png");
+    url("Transalp-gallery-1024x628.png")
+    no-repeat center;
 }
 
 .panel:nth-child(3) {
     background-image: 
-    url("transalp3.png");
+    url("transalp3.png")
+    no-repeat center;
 }
 
 .panel:nth-child(2),
@@ -212,7 +216,8 @@ nav a:hover {
 
 .panel-lg {
     background-image:
-    url("Transalp4.png");
+    url("Transalp4.png")
+    no-repeat center;
     background-size: cover;
     width: 100%;
     height: 100%;
