@@ -62,7 +62,7 @@ nav, .specs-header, .specs li, .stats {
 header {
     height: 100vh;
     min-height: 30em;
-    background: url(36986.png)no-repeat center center fixed;
+    background: url(36986.png)no-repeat center center;
     background-size: cover;
     display: flex;
     flex-direction: column; 
@@ -118,7 +118,7 @@ nav a:hover {
 
 .specs {
     background:
-    url(honda_transalp_header.jpg)no-repeat center center fixed;
+    url(honda_transalp_header.jpg)no-repeat center center;
     background-size: cover;
     min-height: 40em;
     position: relative;
